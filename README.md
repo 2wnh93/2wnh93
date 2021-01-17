@@ -22,7 +22,7 @@ I'm formerly an auditor and have since pursued a budding interest in the value a
 #### ⚡ Fun facts
 
 - I have at least 2 cups/thermos with me when I work as coffee keeps my brain alert while tea prevents my brain from going on overdrive. I always have plain water with me as coffee is dehydrating and tea is a diuretic. 
-- When I'm not coding, I am watching Netflix :tv:, reading :books:, playing Pokemon TCGO :computer:, playing chess or I'm out and about (I love nature walks :herb: and hikes etc) 
+- When I'm not coding, I am watching Netflix :tv:, reading :books:, playing Pokemon TCGO :computer:, playing chess or I'm out and about (I love nature walks :herb: and hikes!) 
 
 #### 💬 Ask me about 
 
