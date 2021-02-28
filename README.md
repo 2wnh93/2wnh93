@@ -16,7 +16,7 @@ I'm formerly an auditor and have since pursued my budding interest in the value 
 
 - Reddit API and Classification
 - Predicting House Prices (Ames) 
-- SAT vs ACT Analysis
+- SAT and ACT Analysis
 
 #### ⚡ Fun facts
 
