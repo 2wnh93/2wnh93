@@ -10,10 +10,13 @@ I'm formerly an auditor and have since pursued my budding interest in the value 
 - Classification Models (Logstic Regression, Naive Bayes, Decision Tree, Random Forest, Support Vector) 
 - Feature Engineering
 - Webscraping (JSON API, Reddit API)
+- Dealing with imbalanced classes (Random Oversampling, Synthetic Minority Oversampling Technique (SMOTE), Adaptic Synthetic (ADAYSN))
 - Natural Language Processing
 
 #### :paw_prints: Recent projects
 
+- Credit Card Fraud Detection 
+- Pricing Products (for profit maximization)
 - Reddit API and Classification
 - Predicting House Prices (Ames) 
 - SAT and ACT Analysis
