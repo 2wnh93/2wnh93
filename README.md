@@ -1,6 +1,6 @@
 ### Hi there, I'm Zawanah 👋
 
-I'm formerly an auditor and have since pursued my budding interest in the value and wonders of Data and Machine Learning. I am currently a Data Science Immersive Course Student at General Assembly (GA) and enjoy practising and applying knowledge I've learnt through projects and collborating with my teammates. Python is my first language and I enjoy writing in Markdown! 
+I'm formerly an auditor and have since pursued my budding interest in the value and wonders of Data and Machine Learning. I am currently a Data Science Immersive Course Student at General Assembly (GA) and enjoy practising and applying knowledge I've learnt through projects and collaborating with my teammates. Python is my first language and I enjoy writing in Markdown! 
 
 #### 🌱 Skills learnt
 
