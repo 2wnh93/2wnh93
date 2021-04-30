@@ -33,7 +33,7 @@ I'm formerly an auditor and have since pursued my budding interest in the value 
 #### 📫 How to reach me: 
 
 - Email: [nzawanahs@gmail.com](mailto:nzawanahs@gmail.com)
-- [LinkedIn](#https://www.linkedin.com/in/zawanah/)
-- [My Website](#https://www.zawanah.com/)
+- [LinkedIn](https://www.linkedin.com/in/zawanah/)
+- [My Website](https://www.zawanah.com/)
 
 
