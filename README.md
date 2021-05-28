@@ -15,6 +15,7 @@ I'm formerly an auditor and have since pursued my budding interest in the value 
 
 #### :paw_prints: Recent projects
 
+- Solar Energy Potential Prediction 
 - Credit Card Fraud Detection 
 - Pricing Products (for profit maximization)
 - Reddit API and Classification
